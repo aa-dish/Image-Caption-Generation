@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+torch
+sklearn
+nltk
+opencv-python
+PIL
+seaborn
+scipy
+jupyter
+ipython
