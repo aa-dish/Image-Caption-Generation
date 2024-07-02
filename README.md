@@ -1,5 +1,5 @@
 # Image-Caption-Generation
-Welcome to my Github repository for my Bachelor's thesis project, "Image Caption Generation"! This project was developed using a combination of powerful machine learning frameworks Keras and TensorFlow, with a focus on implementing the model using VGG16 pretrained model (for image processing) and LSTM framework (to handle to image labels/captions).
+Welcome to my Bachelor's thesis project, "Image Caption Generation"! This project was developed using a combination of powerful machine learning frameworks Keras and TensorFlow, with a focus on implementing the model using VGG16 pretrained model (for image processing) and LSTM framework (to handle to image labels/captions).
 
 The goal of this project was to develop an image captioning system that is capable of generating natural and meaningful descriptions of images. The system is trained on a large dataset of images and corresponding captions, using the VGG16 model to extract relevant features from the images, and LSTM framework to generate descriptive sentences. 
 
